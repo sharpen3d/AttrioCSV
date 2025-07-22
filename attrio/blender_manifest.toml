@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "attrio_csv"
+version = "1.0.1"
+name = "Attrio CSV"
+tagline = "Bake and read back Evaluated Dependency Graph Data as CSV"
+maintainer = "sharpened | Luke Stilson"
+type = "add-on"
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = [
+  "Import-Export",
+  "Bake",
+  "Geometry Nodes",
+]
